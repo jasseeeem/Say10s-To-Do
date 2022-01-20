@@ -1,3 +1,5 @@
+![say10s-logo](https://github.com/jasseeeem/Say10s-To-Do/blob/691d9ee2d252ae03e4ee4e5192df588aeeb8a3ee/images/GitHub%20Banner.png?raw=true)
+
 - [Getting Started](#getting-started)
   - [Installing](#installing)
   - [Executing program](#executing-program)
