@@ -1,6 +1,5 @@
-# Say10s To Do
+![say10s Logo](https://github.com/jasseeeem/Say10s-To-Do/blob/0606f8f8033e57e7eb60c9602ff8fd3496239a1b/images/GitHub%20Banner.png?raw=true)
 
-Simple to do app for keeping track of college work made using react and firebase.
 
 ## Getting Started
 
